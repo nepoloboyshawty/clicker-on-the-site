@@ -24,8 +24,8 @@ body {
 }
 
 .click-button:active {
-    transform: translateY(3px); /* Смещение вниз */
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1); /* Уменьшение тени */
+    transform: translateY(3px);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 
 footer {
