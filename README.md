@@ -13,18 +13,6 @@ Open `index.html` in your browser to try the clicker locally.
 - Vanilla JavaScript
 - Audio and image assets
 
-## Project Structure
-
-index.html
-js/
-└── main.js
-styles/
-└── main.css
-audio/
-└── audio-click.mp3
-images/
-└── background-image.jpeg
-
 ## How to Run
 
 1. Clone the repository:
