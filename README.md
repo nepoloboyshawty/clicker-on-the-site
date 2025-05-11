@@ -17,7 +17,7 @@ Open `index.html` in your browser to try the clicker locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/clicker-on-the-site.git
+   git clone https://github.com/nepoloboyshawty/clicker-on-the-site.git
    
 2. Navigate into the project folder:
    ```bash
